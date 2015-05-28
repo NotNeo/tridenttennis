@@ -1,0 +1,12 @@
+body
+	{
+		background-color: tan;
+		margin-right: 10%;
+		margin-left: 10%;
+		background-image: url("images/mainbackground.jpg");
+	}
+iframe
+	{
+		height: 1000px;
+		width: 90%;
+	}
